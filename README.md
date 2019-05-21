@@ -1,5 +1,12 @@
-###  CORS Control (Plugin) for API
+##  Recommended Chrome Plugin for CORS Control ()
+
+In development environment, the easier way to get around CORS errors is to install this plug in and turn off CORS while in dev mode.
+
 https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en
+
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
